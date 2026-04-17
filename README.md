@@ -2,13 +2,24 @@
 
 <br><br>
 <p align="center p-5">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=500&color=00BFFF&width=600&lines=Hello,+There!+%F0%9F%91%8B;I+am+Waheduzzaman....;Nice+To+meet+you!&center=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=500&color=00BFFF&width=600&lines=Hi!+%F0%9F%91%8B;This+is+Waheduzzaman....;Nice+To+meet+you!&center=true" alt="Typing SVG"/>
 </p>
 
-<p align="center"> I am Waheduzzaman. I am currently a 2nd-year Honours student in the Economics Department at National University.  
-Alongside my studies, I am learning frontend web development. I am passionate about creating simple, responsive, and user-friendly websites. I enjoy learning new things and enhancing my abilities every day. <br>
-My Goal
-To become a skilled Full Stack Web Developer and work on real-world web projects. <p/>
+<div align="center">
+
+  <h2>Waheduzzaman | Frontend Developer & Economics Student</h2>
+
+</div>
+
+<p>
+I am Waheduzzaman, a Frontend Developer from Bangladesh and a 2nd-year Honours student in Economics at National University. I am passionate about building simple, clean, and responsive websites that provide a good user experience.
+</p>
+<p>
+Alongside my studies, I am learning frontend web development and improving my skills in HTML, CSS, React.js, Node.js, and JavaScript through regular practice and projects.
+</p>
+<p>
+My goal is to become a skilled Full Stack Web Developer and work on real-world web applications.
+</p>
 
 - 🌱 I’m currently learning **Node.js**
 <h3 align="left">Connect with me:</h3>
