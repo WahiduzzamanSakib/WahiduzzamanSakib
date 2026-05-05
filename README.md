@@ -36,13 +36,13 @@ My goal is to become a skilled Full Stack Web Developer and work on real-world w
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahiduzzamansakib&show_icons=true&theme=radical&layout=compact&cache_seconds=1800" alt="wahiduzzamansakib Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahiduzzamansakib&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="wahiduzzamansakib GitHub stats" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahiduzzamansakib&theme=radical" alt="wahiduzzamansakib Streak" />
