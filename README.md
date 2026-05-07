@@ -15,13 +15,13 @@
 I am Waheduzzaman, a Frontend Developer from Bangladesh and a 2nd-year Honours student in Economics at National University. I am passionate about building simple, clean, and responsive websites that provide a good user experience.
 </p>
 <p>
-Alongside my studies, I am learning frontend web development and improving my skills in HTML, CSS, React.js, Node.js, and JavaScript through regular practice and projects.
+Alongside my studies, I am learning frontend web development and improving my skills in HTML, CSS, React.js, Node.js, Mongodb and JavaScript through regular practice and projects.
 </p>
 <p>
 My goal is to become a skilled Full Stack Web Developer and work on real-world web applications.
 </p>
 
-- 🌱 I’m currently learning **mongodb**
+- 🌱 I’m currently learning **Next.js**
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
