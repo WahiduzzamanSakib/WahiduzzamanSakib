@@ -67,10 +67,21 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 
 ---
 
-<!-- ## 📊 GitHub Stats -->
+ ## 📊 GitHub Stats 
 
 
 
+![WahiduzzamanSakib's GitHub Stats](https://readme-stats-github.pages.dev/api?username=WahiduzzamanSakib&theme=shadow) 
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=WahiduzzamanSakib&theme=shadow)
+
+
+<!-- full card ">
+<!-- <div align="center">
+  <img src="https://github-all-stats.vercel.app/api?username=WahiduzzamanSakib&v=1" alt="My GitHub Stats" />
+</div> -->
+
+
+<!-- Total view">
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=md-waheduzzaman&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p> -->
