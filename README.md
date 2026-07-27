@@ -67,17 +67,9 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=md-waheduzzaman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=md-waheduzzaman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=md-waheduzzaman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
----
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=md-waheduzzaman&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
