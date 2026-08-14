@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/md-waheduzzaman" target="_blank">
+  <a href="www.linkedin.com/in/waheduzzaman-md" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -28,7 +28,7 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 - 👯 Looking to collaborate on **full-stack web development projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB**
 - 🌐 Explore My Portfolio [Portfolio](https://waheduzzaman.vercel.app) and [My Resume](https://your-resume-link.com)
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/md-waheduzzaman)
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/waheduzzaman-md)
 - 📫 Feel free to reach me out: [Email](mailto:wahidzamanpg@gmail.com)
 - ⚡ Fun fact: I study Economics by day and build web apps by night!
 
