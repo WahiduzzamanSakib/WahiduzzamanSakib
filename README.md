@@ -132,8 +132,8 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 </div> -->
 
 
-<!-- Total view">
-<!-- <p align="center">
+<!-- full card "> -->
+ <p align="center">
   <img src="https://komarev.com/ghpvc/?username=md-waheduzzaman&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</p> -->
+</p> 
 
