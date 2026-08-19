@@ -2,7 +2,7 @@
 
 <!-- <img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/36f12699-ea48-4356-8af0-6597a480459b" /> -->
 
-<img width="1584" height="396" alt="MERN Stack Developer " src="https://github.com/user-attachments/assets/d2101f11-856a-4284-93b2-50b65da6a6fe" />
+<!-- <img width="1584" height="396" alt="MERN Stack Developer " src="https://github.com/user-attachments/assets/d2101f11-856a-4284-93b2-50b65da6a6fe" /> -->
 
 
 <h1 align="center">Hi, I'm Waheduzzaman 👋</h1>
