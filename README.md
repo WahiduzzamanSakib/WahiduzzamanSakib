@@ -29,7 +29,7 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 - 🌱 Currently learning **Express.js & advanced Node.js**
 - 👯 Looking to collaborate on **full-stack web development projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB**
-- 🌐 Explore My Portfolio [Portfolio](https://waheduzzaman.vercel.app) and [My Resume](https://your-resume-link.com)
+- 🌐 Explore My Portfolio [Portfolio](https://waheduzzaman.vercel.app) and [My Resume](https://drive.google.com/file/d/1dcf1c96pZslR3RXxqJDj8HWyQ0PqPSPD/view?usp=drive_link)
 - 📫 Reach me on [LinkedIn](www.linkedin.com/in/waheduzzaman-md)
 - 📫 Feel free to reach me out: [Email](mailto:wahidzamanpg@gmail.com)
 - ⚡ Fun fact: I study Economics by day and build web apps by night!
