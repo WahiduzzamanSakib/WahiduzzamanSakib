@@ -1,4 +1,4 @@
-<img width="1640" height="656" alt="mern stack devloper" src="https://github.com/user-attachments/assets/baa5978b-c27c-4008-8cc9-65ab3bd7a5b7" />
+<img width="2064" height="512" alt="Mern Stack Devloper" src="https://github.com/user-attachments/assets/021e5844-c04d-4dcb-b4f9-06d82cc4c6d4" />
 
 <!-- <img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/36f12699-ea48-4356-8af0-6597a480459b" /> -->
 
