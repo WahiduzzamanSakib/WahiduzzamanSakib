@@ -22,12 +22,12 @@
 I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Honours in Economics at National University. I build clean, responsive, and user-friendly web applications. I'm continuously improving my full-stack skills and available for **Frontend Developer opportunities**.
 
 - 🚀 Building responsive and interactive web applications using **React.js, Next.js, JavaScript, and Tailwind CSS**
-- 🌱 Expanding my MERN-stack skills with **Node.js, Express.js, and MongoDB**
+- 🌱 Expanding my MERN stack skills with **Node.js, Express.js, and MongoDB**
 - 🤝 Open to collaborating on **Frontend and MERN Stack development projects**
 - 💬 Ask me about React.js, JavaScript, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB.
 - 🌐 Explore My Portfolio [Portfolio](https://waheduzzaman.vercel.app) and [My Resume](https://drive.google.com/file/d/1dcf1c96pZslR3RXxqJDj8HWyQ0PqPSPD/view?usp=drive_link)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/waheduzzaman-md)
-- 📫 Feel free to reach me out: [Email](mailto:wahidzamanpg@gmail.com)
+- 📫 Feel free to reach out to me: [Email](mailto:wahidzamanpg@gmail.com)
 - ⚡ Fun fact: I study Economics by day and build web apps by night!
 
 ---
