@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Waheduzzaman 👋</h1>
 
-<!-- <h3 align="center">MERN Stack Developer | Economics Student</h3> -->
+<h3 align="center">MERN Stack Developer | Frontend Developer | Economics Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=800&color=00BFFF&width=600&lines=Frontend+Developer;MERN+Stack+Developer;Always+Learning+Something+New&center=true" alt="Typing SVG"/>
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Honours in Economics at National University. I build clean, responsive, and user-friendly web applications. I'm continuously improving my full-stack skills and available for **Frontend Developer opportunities**.
+I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Honours in Economics at National University. I build clean, responsive, and user-friendly web applications. I'm continuously improving my skills and available for **Frontend Developer opportunities**.
 
 - 🚀 Building responsive and interactive web applications using **React.js, Next.js, JavaScript, and Tailwind CSS**
 - 🌱 Expanding my MERN stack skills with **Node.js, Express.js, and MongoDB**
@@ -32,49 +32,42 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 
 ---
 
-
 ## 🛠️ Tech Stack
 
-**Frontend**
+### 🎨 Frontend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-**Backend**
+
+### ⚙️ Backend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Database**
+
+### 🗄️ Database & Services
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-**Deployment**
+
+### 🔐 API & Authentication
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-**Tools & Design**
+
+### 🚀 Deployment & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,figma,ps" />
 </p>
 
 ---
