@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Honours in Economics at National University. I build clean, responsive, and user-friendly web applications. I'm continuously improving my skills and available for **Frontend Developer opportunities**.
+I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Honours in Economics at National University. <br> I build clean, responsive, and user-friendly web applications. I'm continuously improving my skills and  available for <br> **Frontend Developer opportunities**.
 
 - 🚀 Building responsive and interactive web applications using **React.js, Next.js, JavaScript, and Tailwind CSS**
 - 🌱 Expanding my MERN stack skills with **Node.js, Express.js, and MongoDB**
