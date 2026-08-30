@@ -34,7 +34,10 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 
 <p align="left">
 
-<a href="https://waheduzzaman.vercel.app" target="_blank">
+<!-- <a href="https://waheduzzaman.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a> -->
+<a href="https://waheduzzaman-portfolio.up.railway.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
