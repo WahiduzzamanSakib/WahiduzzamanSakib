@@ -161,8 +161,44 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 
 ## 📊 GitHub Stats 
 
-<p align="center">
 
+<div align="center">
+  <a href="https://github.com/WahiduzzamanSakib">
+    <img
+      src="https://streak-stats.demolab.com/?user=WahiduzzamanSakib&theme=radial&background=00000000&ring=06b6d4&fire=f97316&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=38bdf8&dates=a9b1d6&border=06b6d4&border_radius=12"
+      width="65%"
+      height="180"
+      alt="GitHub Streak"
+    />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/WahiduzzamanSakib">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=WahiduzzamanSakib&show_icons=true&theme=radial&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=06b6d4&border_radius=12&include_all_commits=true&count_private=true"
+      width="49%"
+      height="170"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/WahiduzzamanSakib">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=WahiduzzamanSakib&layout=compact&theme=radial&bg_color=00000000&title_color=ffffff&text_color=ffffff&border_color=06b6d4&border_radius=12"
+      width="49%"
+      height="170"
+      alt="Top Languages"
+    />
+  </a>
+</div>
+
+<br />
+
+
+
+<!-- <p align="center">
 <a href="https://github.com/WahiduzzamanSakib" target="_blank">
   <img src="https://readme-stats-github.pages.dev/api?username=WahiduzzamanSakib&theme=shadow" title="GitHub Statistics" />
 </a>
@@ -170,18 +206,7 @@ I'm a **MERN Stack Developer** from Bangladesh, currently in my 2nd year of Hono
 <a href="https://github.com/WahiduzzamanSakib" target="_blank">
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=WahiduzzamanSakib&theme=shadow" title="Top Programming Languages" />
 </a>
-
-</p>
-
-<!-- ![WahiduzzamanSakib's GitHub Stats](https://readme-stats-github.pages.dev/api?username=WahiduzzamanSakib&theme=shadow) 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=WahiduzzamanSakib&theme=shadow) -->
-
-
-<!-- full card ">
-<!-- <div align="center">
-  <img src="https://github-all-stats.vercel.app/api?username=WahiduzzamanSakib&v=1" alt="My GitHub Stats" />
-</div> -->
-
+</p> -->
 
 <!-- full card "> -->
  <p align="center">
